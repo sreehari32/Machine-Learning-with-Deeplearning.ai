@@ -1,3 +1,3 @@
 # Machine-Learning-with-Deeplearning.ai
-This repository contains the details of the course attended in Machine Learning by Stanford University &
- DeepLearning.AI on Coursera. (02/2024)
+This repository hosts the program assignments for the Deep Learning Specialization course offered by Andrew Ng and DeepLearning.AI through Stanford University on the Coursera platform.
+
